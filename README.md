@@ -1,5 +1,5 @@
 ### 🦊 Hi, I’m @Qeed1o
 
-22 y.o.✨ front-end dev.
+26 y.o.✨ front-end dev (Angular/React/Vue).
 
 Sometime playing around 🐍python, 🎯dart(flutter)
